@@ -2,3 +2,4 @@
 CSE팀 강보경
 ---
 pull request test repo
+readme 수정
