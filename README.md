@@ -2,7 +2,3 @@
 CSE팀 강보경
 ---
 pull request test repo
-```python
-print("hello")
-```
-
